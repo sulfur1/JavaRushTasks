@@ -1,0 +1,20 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+.repository/
+*.iml
+*.iws
+*.properties
+*.jar
+
+/5.OnlineInternship/
+/out/
+/JavaRushPlugin.properties
+/Instruction.png
+/out.log
+/out.log.*
+/sun.nio.ch.ChannelOutputStream@2e0fa5d3
+/sun.nio.ch.ChannelOutputStream@7daf6ecc
